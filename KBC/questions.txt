@@ -1,0 +1,145 @@
+What is the capital of France?
+Paris
+London
+Berlin
+Madrid
+A
+10
+1000
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+B
+10
+2000
+Who wrote 'Romeo and Juliet'?
+Mark Twain
+William Wordsworth
+William Shakespeare
+Charles Dickens
+C
+10
+3000
+What is the capital of France?
+Paris
+London
+Berlin
+Madrid
+A
+10
+1000
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+B
+10
+2000
+Who wrote 'Romeo and Juliet'?
+Mark Twain
+William Wordsworth
+William Shakespeare
+Charles Dickens
+C
+10
+3000
+Which is the smallest prime number?
+0
+2
+1
+3
+B
+10
+5000
+In which year did India gain independence?
+1942
+1945
+1947
+1950
+C
+10
+10000
+What is the chemical symbol for water?
+H2O
+O2
+CO2
+NaCl
+A
+10
+20000
+Which language is used to develop Android Apps?
+Kotlin
+Swift
+Ruby
+Go
+A
+10
+40000
+Who is known as the Father of the Nation in India?
+Bhagat Singh
+Mahatma Gandhi
+Subhash Chandra Bose
+Nehru
+B
+10
+80000
+Which organ purifies blood in the human body?
+Heart
+Kidney
+Liver
+Lungs
+B
+10
+160000
+Which is the largest ocean in the world?
+Atlantic
+Pacific
+Indian
+Arctic
+B
+10
+320000
+What is the square root of 144?
+11
+12
+13
+14
+B
+10
+640000
+Who invented the light bulb?
+Newton
+Thomas Edison
+Einstein
+Tesla
+B
+10
+1250000
+Which is the longest river in the world?
+Nile
+Amazon
+Ganga
+Mississippi
+A
+10
+2500000
+What is the capital of Australia?
+Canberra
+Sydney
+Melbourne
+Perth
+A
+10
+5000000
+Which gas do plants absorb from the atmosphere?
+Oxygen
+Hydrogen
+Carbon Dioxide
+Nitrogen
+C
+10
+10000000
+
